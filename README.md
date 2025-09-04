@@ -14,3 +14,5 @@ Använd grid-objektet (exempel finns i BalderJS-API:et) för att skapa något (e
 - [Sudoku](https://sv.wikipedia.org/wiki/Sudoku)
 - [Game of Life](https://sv.wikipedia.org/wiki/Game_of_Life)
 - [Tetris](https://sv.wikipedia.org/wiki/Tetris)
+
+Det här är längre projekt som du kan arbeta med när du är klar med de inlämningar som du behöver göra.
